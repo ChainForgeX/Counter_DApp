@@ -1,8 +1,8 @@
-import Staking from "./Staking";
+import Counter from "./Counter";
 
 function App(){
   return(
-    <Staking />
+    <Counter />
   );
 }
 
